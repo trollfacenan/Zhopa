@@ -78,7 +78,7 @@ local Window = Rayfield:CreateWindow({
 	LoadingTitle = "Welcome to Raycast!",
 	LoadingSubtitle = "version 1",
 	ConfigurationSaving = {
-		Enabled = true,
+		Enabled = false,
 		FolderName = nil, -- Create a custom folder for your hub/game
 		FileName = "mmrc"
 	},
